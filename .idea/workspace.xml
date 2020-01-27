@@ -1,20 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36c3c9e2-ac63-413b-82b4-1e27a3a2a5ee" name="Default Changelist" comment="" />
+    <list default="true" id="36c3c9e2-ac63-413b-82b4-1e27a3a2a5ee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/action.py" beforeDir="false" afterPath="$PROJECT_DIR$/action.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example.txt.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitpush.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gitpush.bat" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WwOo5r5eGrARSTxHjZWsDfiB77" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/action.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -66,6 +79,9 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="1540" y="-112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580057406657">
       <screen x="1366" y="-201" width="1440" height="870" />
@@ -75,25 +91,29 @@
       <screen x="1366" y="-201" width="1440" height="870" />
     </state>
     <state x="1866" y="-12" key="FileChooserDialogImpl/62.0.1304.768/1366.-201.1440.870/2806.-322.1280.994@1366.-201.1440.870" timestamp="1580057404479" />
-    <state width="1419" height="705" key="GridCell.Tab.0.bottom" timestamp="1580065238050">
+    <state width="1419" height="705" key="GridCell.Tab.0.bottom" timestamp="1580091744069">
       <screen x="1366" y="-201" width="1440" height="870" />
     </state>
-    <state width="1419" height="705" key="GridCell.Tab.0.bottom/62.0.1304.768/1366.-201.1440.870/2806.-322.1280.994@1366.-201.1440.870" timestamp="1580065238050" />
-    <state width="1419" height="705" key="GridCell.Tab.0.center" timestamp="1580065238049">
+    <state width="1419" height="705" key="GridCell.Tab.0.bottom/62.0.1304.768/1366.-201.1440.870/2806.-322.1280.994@1366.-201.1440.870" timestamp="1580091744069" />
+    <state width="1419" height="705" key="GridCell.Tab.0.center" timestamp="1580091744069">
       <screen x="1366" y="-201" width="1440" height="870" />
     </state>
-    <state width="1419" height="705" key="GridCell.Tab.0.center/62.0.1304.768/1366.-201.1440.870/2806.-322.1280.994@1366.-201.1440.870" timestamp="1580065238049" />
-    <state width="1419" height="705" key="GridCell.Tab.0.left" timestamp="1580065238049">
+    <state width="1419" height="705" key="GridCell.Tab.0.center/62.0.1304.768/1366.-201.1440.870/2806.-322.1280.994@1366.-201.1440.870" timestamp="1580091744069" />
+    <state width="1419" height="705" key="GridCell.Tab.0.left" timestamp="1580091744069">
       <screen x="1366" y="-201" width="1440" height="870" />
     </state>
-    <state width="1419" height="705" key="GridCell.Tab.0.left/62.0.1304.768/1366.-201.1440.870/2806.-322.1280.994@1366.-201.1440.870" timestamp="1580065238049" />
-    <state width="1419" height="705" key="GridCell.Tab.0.right" timestamp="1580065238049">
+    <state width="1419" height="705" key="GridCell.Tab.0.left/62.0.1304.768/1366.-201.1440.870/2806.-322.1280.994@1366.-201.1440.870" timestamp="1580091744069" />
+    <state width="1419" height="705" key="GridCell.Tab.0.right" timestamp="1580091744069">
       <screen x="1366" y="-201" width="1440" height="870" />
     </state>
-    <state width="1419" height="705" key="GridCell.Tab.0.right/62.0.1304.768/1366.-201.1440.870/2806.-322.1280.994@1366.-201.1440.870" timestamp="1580065238049" />
-    <state x="1587" y="-125" key="SettingsEditor" timestamp="1580065224376">
+    <state width="1419" height="705" key="GridCell.Tab.0.right/62.0.1304.768/1366.-201.1440.870/2806.-322.1280.994@1366.-201.1440.870" timestamp="1580091744069" />
+    <state x="2819" y="-140" key="SettingsEditor" timestamp="1580073947384">
+      <screen x="2806" y="-322" width="1280" height="994" />
+    </state>
+    <state x="2819" y="-140" key="SettingsEditor/62.0.1304.768/1366.-201.1440.870/2806.-322.1280.994@1366.-201.1440.870" timestamp="1580073947384" />
+    <state x="1781" y="56" key="com.intellij.ide.util.TipDialog" timestamp="1580090205647">
       <screen x="1366" y="-201" width="1440" height="870" />
     </state>
-    <state x="1587" y="-125" key="SettingsEditor/62.0.1304.768/1366.-201.1440.870/2806.-322.1280.994@1366.-201.1440.870" timestamp="1580065224376" />
+    <state x="1781" y="56" key="com.intellij.ide.util.TipDialog/62.0.1304.768/1366.-201.1440.870/2806.-322.1280.994@1366.-201.1440.870" timestamp="1580090205647" />
   </component>
 </project>
